@@ -1,0 +1,4 @@
+﻿  kronometre.cpp
+c:\users\enes\desktop\game_development\5_proje - kopya\consoleapplication8\kronometre.cpp(23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication8.vcxproj -> C:\Users\enes\Desktop\game_development\5_proje - Kopya\Debug\ConsoleApplication8.exe
+  ConsoleApplication8.vcxproj -> C:\Users\enes\Desktop\game_development\5_proje - Kopya\Debug\ConsoleApplication8.pdb (Full PDB)
